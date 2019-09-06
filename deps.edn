@@ -1,0 +1,4 @@
+{:deps {com.bhauman/figwheel-main {:mvn/version "0.2.3"}
+        ulmus {:local/root "/home/jeremykross/Projects/ulmus"}
+        recurrent {:local/root "/home/jeremykross/Projects/recurrent"}}
+ :paths ["src" "target" "resources"]}

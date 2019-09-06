@@ -1,0 +1,2 @@
+^{:connect-url "ws://penguin.linux.test:[[server-port]]/figwheel-connect"}
+{:main recurrent-3d.core}
